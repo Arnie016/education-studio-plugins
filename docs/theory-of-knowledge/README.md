@@ -12,4 +12,3 @@ No separate plugin charge, payment flow, wallet, publisher-operated backend or a
 - [Source packages](../../plugins/)
 
 Check the bundled credits and source-access notes. No affiliation with the IB or OpenAI, no official grading authority and no guaranteed learning outcomes or marks are claimed.
-

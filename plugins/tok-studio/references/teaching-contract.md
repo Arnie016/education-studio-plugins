@@ -33,4 +33,3 @@ There is no automatic connection to the original GPT, no chat/subscription trans
 Created for Arnav Salkade. Original GPT: [TOK Essay & Exhibition Tutor 2027 (IB DP)](https://chatgpt.com/g/g-fOitKYU60-tok-essay-exhibition-tutor-2027-ib-dp).
 
 Mention this relationship in onboarding or when asked about the author, source or original tutor. Do not repeat promotional credit in every paragraph review or imply that opening the GPT is required to use the plugin.
-

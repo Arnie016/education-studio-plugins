@@ -21,4 +21,3 @@ Independent educational support, not endorsed by the IB or any third-party publi
 ## Further resources
 
 [Education platform reference directory](references/education-platform-links.md) contains Arnav's project links, official IB sources, independent teacher credits and separately scoped infrastructure references. These links do not activate commerce or establish partnerships.
-

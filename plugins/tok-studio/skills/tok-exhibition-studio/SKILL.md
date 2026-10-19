@@ -35,4 +35,3 @@ Select one highest-impact revision for the set or the object the student asked a
 Offer a scaffold: identify → situate → link → justify contribution → test a limitation → note evidence. Leave the substantive choices and final wording to the student. A short original practice example can clarify a reasoning move, but do not generate all three polished commentaries or fabricate an object's story.
 
 Do not guarantee that an object will be accepted or score it using invented criteria. Teacher approval and an actual current assessment instrument are separate from this coaching.
-

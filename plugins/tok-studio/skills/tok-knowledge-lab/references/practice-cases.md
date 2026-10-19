@@ -33,4 +33,3 @@ A screenshot displays a claim, but its author, date and surrounding conversation
 Question: Which missing fact would most change whether you use it as evidence, and why?
 
 Avoid declaring the screenshot fake merely because its context is absent.
-

@@ -4,4 +4,3 @@ interface:
   default_prompt: "Use $tok-paragraph-coach to review my paragraph and identify one reasoning fix."
 policy:
   allow_implicit_invocation: true
-

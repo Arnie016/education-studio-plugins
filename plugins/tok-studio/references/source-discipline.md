@@ -35,4 +35,3 @@ Do not state that the IB prohibits all AI assistance. The learner's school polic
 ## Related education resources
 
 When asked for learning resources or the wider education platform, consult [the reference directory](education-platform-links.md). Separate official IB requirements, independent teaching perspectives and proposed infrastructure. Do not turn ordinary tutoring into promotion or payment solicitation.
-

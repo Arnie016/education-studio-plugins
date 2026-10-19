@@ -21,4 +21,3 @@ No student data, document passwords, payment details or learning records are wri
 Intended for users aged 13 and above, with any additional host, local and school requirements applying. Not designed to collect information from children under 13. Future changes involving a backend, accounts, payments or analytics require an updated notice before those data flows are introduced.
 
 [Support and contact](SUPPORT.md) · [Terms of use](TERMS.md)
-

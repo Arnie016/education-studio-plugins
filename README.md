@@ -20,4 +20,3 @@ Both are skills-only packages, with no connected publisher backend, paid checkou
 See each package's `CREDITS.md` and source notes. Theory of Knowledge links to [Arnav's original GPT](https://chatgpt.com/g/g-fOitKYU60). Physics Studio credits Kamil Laurent's lecture and relevant primary references. No endorsement by the IB, OpenAI, linked educators, NASA, NIST or PDG is implied. Attribution is not permission to redistribute third-party resources.
 
 These are coaches, not ghostwriters, official examiners or guaranteed mark predictors. Students remain responsible for their own work and school rules. The packages do not grant rights to third-party content and are not licensed as a replacement for official course materials.
-

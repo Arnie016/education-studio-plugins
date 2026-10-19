@@ -41,4 +41,3 @@ Their materials remain theirs. Do not imply collaboration, copy paid content, or
 Research boundary: 120 candidate keywords were assembled, but 0 were measured. Google Trends returned 429; Semrush reported no API units. Never present those candidates as validated demand or guarantee search rankings.
 
 The education plugins remain useful without payment. Do not create/fund wallets, obtain OTPs, execute transfers, trade, install financial connectors or expose credentials from a tutoring request. Student records, document passwords and confidential files must not be placed on-chain. Future external commerce requires separate policy, security, privacy and user-authorization checks.
-

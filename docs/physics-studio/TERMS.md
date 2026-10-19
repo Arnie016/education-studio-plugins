@@ -19,4 +19,3 @@ The publisher charges no separate plugin fee in this release. Any host subscript
 Review calculations, code and factual claims before relying on them. Source links and credits do not imply endorsement, partnership or a license to copy third-party material. The package does not grant rights that the publisher does not own. No service-level guarantee or ongoing availability commitment is made.
 
 These usage terms do not replace rights or protections that apply by law. Contact [support](SUPPORT.md) for problems or corrections. See the [privacy notice](PRIVACY.md) for the current data flows.
-

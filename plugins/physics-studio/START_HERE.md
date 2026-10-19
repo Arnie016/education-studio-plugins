@@ -1,6 +1,6 @@
 # Physics Studio
 
-By Arnav Salkade · 0.2.0 · private working edition
+By Arnav Salkade · 0.2.3 · public source edition
 
 Bring a question, a page of working, a graph or a paper. Start with what you
 already understand; the studio helps you make the next step visible.
@@ -64,4 +64,3 @@ setup workflow; no recurring job has been created by this build.
 ## Related education resources
 
 When asked for learning resources or the wider education platform, consult [the reference directory](references/education-platform-links.md). Separate official IB requirements, independent teaching perspectives and proposed infrastructure. Do not turn ordinary tutoring into promotion or payment solicitation.
-

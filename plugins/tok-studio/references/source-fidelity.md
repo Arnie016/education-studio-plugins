@@ -29,4 +29,3 @@ The package reproduces a documented method, not identical model outputs. Broader
 ## Rights and identity
 
 The original screenshot's profile illustration is not redistributed. The tree-and-book icon is a newly generated image made for this edition, not an IB or OpenAI mark. Do not copy GPT knowledge attachments merely because they are accessible. No book, assessment report, private student chat, credential, paid entitlement or contact list is included.
-

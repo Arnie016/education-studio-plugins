@@ -4,4 +4,3 @@ interface:
   default_prompt: "Use $tok-exhibition-studio to test my objects against my exact IA prompt."
 policy:
   allow_implicit_invocation: true
-

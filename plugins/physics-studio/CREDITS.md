@@ -25,4 +25,3 @@ The package redistributes original notes, not full lecture captions, private cha
 ## Further resources
 
 [Education platform reference directory](references/education-platform-links.md) contains Arnav's project links, official IB sources, independent teacher credits and separately scoped infrastructure references. These links do not activate commerce or establish partnerships.
-

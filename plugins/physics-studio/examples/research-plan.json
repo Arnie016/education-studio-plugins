@@ -1,0 +1,19 @@
+{
+  "schema_version": 1,
+  "campaign_id": "neutrino-information-demo",
+  "owner_alias": "choose-your-local-owner",
+  "objective": "Test what a common Hamiltonian identity shift leaves unchanged, and identify an additional measurement needed to recover the missing parameter.",
+  "source_url": "https://www.youtube.com/watch?v=YFiQIZOM2fw&t=21732",
+  "schedule": {"enabled": false, "cadence": "weekly", "timezone": "Asia/Singapore", "max_runs": 4},
+  "limits": {
+    "max_parallel_runs": 1,
+    "max_wall_seconds_per_run": 180,
+    "max_tokens_per_run": 6000,
+    "remaining_allowance_floor_pct": 21,
+    "max_external_usd_per_run": "0.00",
+    "max_external_usd_total": "0.00",
+    "max_attempts_per_run": 1
+  },
+  "funding": {"paid_execution_approved": false},
+  "execution": {"mode": "PLAN_ONLY"}
+}

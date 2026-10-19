@@ -1,0 +1,49 @@
+{
+  "interface": {
+    "capabilities": [],
+    "category": "Education",
+    "composerIcon": "./assets/tok-studio.png",
+    "defaultPrompt": [
+      "Review one TOK paragraph and show the highest-impact reasoning fix.",
+      "Help me test my three exhibition objects against my exact IA prompt.",
+      "Ask me one question that challenges how I know my claim is true."
+    ],
+    "developerName": "Arnav Salkade",
+    "displayName": "Theory of Knowledge",
+    "logo": "./assets/tok-studio.png",
+    "longDescription": "Created by Arnav Salkade. Explore Theory of Knowledge for the IB Diploma through focused essay feedback, exhibition-object reviews and question-led epistemology. Understand claims, evidence, perspectives and counterarguments while keeping your own writing and judgement. A manually designed companion to Arnav's TOK Essay & Exhibition Tutor, with a direct link to the original GPT. Assessment references credit the International Baccalaureate and are documented in CREDITS.md and the source notes. Independent educational support; not an IB product, official examiner or guaranteed mark predictor.",
+    "shortDescription": "IB TOK essays & exhibitions",
+    "websiteURL": "https://github.com/Arnie016/education-studio-plugins/blob/main/docs/theory-of-knowledge/README.md",
+    "supportURL": "https://github.com/Arnie016/education-studio-plugins/blob/main/docs/theory-of-knowledge/SUPPORT.md",
+    "privacyPolicyURL": "https://github.com/Arnie016/education-studio-plugins/blob/main/docs/theory-of-knowledge/PRIVACY.md",
+    "termsOfServiceURL": "https://github.com/Arnie016/education-studio-plugins/blob/main/docs/theory-of-knowledge/TERMS.md"
+  },
+  "extensions": {
+    "com.openai": {
+      "publication": {
+        "release_notes": "Public distribution preparation: source credits, verified support/policy links, country targeting and submission-compatible icon. Existing teaching skills retained.",
+        "countries": []
+      }
+    }
+  },
+  "name": "tok-studio",
+  "version": "0.1.3",
+  "description": "Theory of Knowledge tutoring for the IB Diploma: essay reasoning, exhibition-object review and epistemology, created by Arnav Salkade.",
+  "author": {
+    "name": "Arnav Salkade"
+  },
+  "keywords": [
+    "Theory of Knowledge",
+    "TOK",
+    "IB",
+    "IB DP",
+    "IB Diploma Programme",
+    "TOK essay",
+    "TOK exhibition",
+    "epistemology",
+    "critical thinking",
+    "Arnav Salkade"
+  ],
+  "homepage": "https://chatgpt.com/g/g-fOitKYU60-tok-essay-exhibition-tutor-2027-ib-dp",
+  "skills": "./skills"
+}

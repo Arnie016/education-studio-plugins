@@ -1,0 +1,7 @@
+interface:
+  display_name: "TOK Paragraph Coach"
+  short_description: "Find the one reasoning change that matters."
+  default_prompt: "Use $tok-paragraph-coach to review my paragraph and identify one reasoning fix."
+policy:
+  allow_implicit_invocation: true
+

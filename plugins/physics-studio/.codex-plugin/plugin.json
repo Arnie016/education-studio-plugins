@@ -1,0 +1,49 @@
+{
+  "interface": {
+    "displayName": "Physics Studio",
+    "shortDescription": "Equations, analogies, research",
+    "longDescription": "Created by Arnav Salkade. Learn physics through detailed equations, step-by-step derivations, concrete analogies and small reproducible experiments. Seven skills cover tutoring, measurement uncertainty, simulations, particle physics, paper analysis and bounded research planning. The chapter-linked learning atlas draws on Kamil Laurent's Particle Physics in 17 Hours, with explicit credit and source notes. Primary references include NIST, NASA and the Particle Data Group. Research budgets and schedules are planning tools; no paid agents, live scheduler or billing enforcement are connected. See CREDITS.md for links and coverage limits.",
+    "developerName": "Arnav Salkade",
+    "category": "Education",
+    "capabilities": [],
+    "defaultPrompt": [
+      "Teach me why astronauts float, then help me derive the orbit equation.",
+      "Check my physics derivation line by line and explain the first broken step.",
+      "Turn this physics paper into an explanation and a small testable experiment."
+    ],
+    "logo": "./assets/icon.png",
+    "composerIcon": "./assets/icon.png",
+    "websiteURL": "https://github.com/Arnie016/education-studio-plugins/blob/main/docs/physics-studio/README.md",
+    "supportURL": "https://github.com/Arnie016/education-studio-plugins/blob/main/docs/physics-studio/SUPPORT.md",
+    "privacyPolicyURL": "https://github.com/Arnie016/education-studio-plugins/blob/main/docs/physics-studio/PRIVACY.md",
+    "termsOfServiceURL": "https://github.com/Arnie016/education-studio-plugins/blob/main/docs/physics-studio/TERMS.md"
+  },
+  "name": "physics-studio",
+  "version": "0.2.3",
+  "description": "Physics learning and careful research through detailed equations, concrete analogies and bounded experiments, created by Arnav Salkade.",
+  "author": {
+    "name": "Arnav Salkade"
+  },
+  "keywords": [
+    "physics",
+    "particle physics",
+    "step-by-step derivations",
+    "equations",
+    "analogies",
+    "quantum mechanics",
+    "neutrinos",
+    "dark matter",
+    "research",
+    "Kamil Laurent",
+    "Arnav Salkade"
+  ],
+  "skills": "./skills",
+  "extensions": {
+    "com.openai": {
+      "publication": {
+        "countries": [],
+        "release_notes": "Public distribution preparation: source credits, verified support/policy links, country targeting and submission-compatible icon. Existing teaching skills retained."
+      }
+    }
+  }
+}

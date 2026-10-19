@@ -1,0 +1,7 @@
+interface:
+  display_name: "TOK Knowledge Lab"
+  short_description: "Explore how a claim earns its justification."
+  default_prompt: "Use $tok-knowledge-lab to challenge how I know my claim is true."
+policy:
+  allow_implicit_invocation: true
+

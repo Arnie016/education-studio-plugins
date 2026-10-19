@@ -1,0 +1,7 @@
+interface:
+  display_name: "TOK Exhibition Studio"
+  short_description: "Connect real objects to your exact IA prompt."
+  default_prompt: "Use $tok-exhibition-studio to test my objects against my exact IA prompt."
+policy:
+  allow_implicit_invocation: true
+
